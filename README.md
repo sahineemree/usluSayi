@@ -1,2 +1,2 @@
 # usluSayi
-Üslü sayı hesabı için kod bloğu.
+Üslü sayı hesabı için kod bloğu. (1. Sınıf)
